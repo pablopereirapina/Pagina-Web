@@ -2,11 +2,15 @@ html,body{
 	margin: 0px;
 	padding: 0px;
 	height: 100%;
+	background-color: #6F8FA2;
 }
 header{
 	width: 100%;
 	height: 15%;
-	background-color: blue;
+}
+header img{
+	width: 100%;
+	height: 100%;
 }
 nav{
 	width: 12%;
@@ -18,7 +22,7 @@ nav{
 #principal{
 	width: 74%;
 	height: 130%;
-	background-color: green;
+	background-color: #032336;
 	margin-left: 13%;
 }
 article{
@@ -50,7 +54,10 @@ section{
 	position: absolute;
 	margin-left: 1%;
 	top: 51%;
-	background-color: orange;
+}
+#jmetal img{
+	width: 100%;
+	height: 100%;
 }
 aside{
 	width: 53%;
