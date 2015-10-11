@@ -22,6 +22,19 @@ nav{
 	background-color: white;
 	position: fixed;
 }
+li{
+	border: 1px solid;
+	border-radius: 12px;
+	list-style: none;
+	text-align: center;
+	padding-top: 1%;
+	padding-bottom: 1%;
+	background-color: #28282F;
+	margin-top: 3%;
+	margin-right: 10%;
+	cursor: pointer;
+	color: white;
+}
 #principal{
 	width: 74%;
 	height: 125%;
