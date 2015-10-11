@@ -17,7 +17,8 @@ header{
 	margin-left: 7%;
 }
 nav{
-	width: 13%;
+	width: 11%;
+	margin-left: 2%;
 	height: 30%;
 	background-color: white;
 	position: fixed;
@@ -30,10 +31,13 @@ li{
 	padding-top: 1%;
 	padding-bottom: 1%;
 	background-color: #28282F;
-	margin-top: 3%;
+	margin-top: 5%;
 	margin-right: 10%;
 	cursor: pointer;
 	color: white;
+}
+li:hover{
+	background-color: #878791;
 }
 #principal{
 	width: 74%;
