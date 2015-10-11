@@ -1,0 +1,62 @@
+html,body{
+	margin: 0px;
+	padding: 0px;
+	height: 100%;
+}
+header{
+	width: 100%;
+	height: 15%;
+	background-color: blue;
+}
+nav{
+	width: 12%;
+	height: 30%;
+	background-color: red;
+	margin-left: 0.5%;
+	position: fixed;
+}
+#principal{
+	width: 74%;
+	height: 160%;
+	background-color: green;
+	margin-left: 13%;
+}
+article{
+	width: 65%;
+	height: 21%;
+	margin-left: 1%;
+	margin-top: 1%;
+	background-color: purple;
+	float: left;
+}
+section{
+	width: 98%;
+	height: 90%;
+	margin-left: 1%;
+	background-color: pink;
+
+}
+#i1{
+	width: 32%;
+	height: 21%;
+	float: left;
+	background-color: yellow;
+	margin-left: 1%;
+	margin-top: 1%;
+}
+#jmetal{
+	width: 18%;
+	height: 30%;
+	position: absolute;
+	margin-left: 1%;
+	top: 51%;
+	background-color: orange;
+}
+aside{
+	width: 53%;
+	height: 30%;
+	position: absolute;
+	background-color: white;
+	top: 51%;
+	left: 33%;
+}
