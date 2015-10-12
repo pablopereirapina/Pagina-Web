@@ -12,9 +12,12 @@ header{
 	height: 100%;
 	width: 8%;
 	margin-left: 13%;
+	cursor: pointer;
 }
 #iconos{
 	margin-left: 7%;
+	height: 85%;
+	width: 50%;
 }
 nav{
 	width: 11%;
@@ -38,7 +41,7 @@ li{
 }
 li:hover{
 	background-color: #878791;
-}
+	-webkit-transform: rotate(7deg);}
 #principal{
 	width: 74%;
 	height: 125%;
@@ -67,6 +70,10 @@ section{
 #img img{
 	width: 100%;
 	height: 100%;
+	cursor: pointer;
+}
+#img:hover{
+	transform: scale(1.1,1.1);
 }
 #jmetal{
 	width: 18%;
@@ -98,6 +105,10 @@ aside{
 	width: 100%;
 	height: 100%;
 }
+#i1:hover{
+	-webkit-transform: rotate(7deg);
+	cursor: pointer;
+}
 #s1{
 	float: left;
 	width: 66%;
@@ -115,6 +126,10 @@ aside{
 #i2 img{
 	width: 100%;
 	height: 100%;
+}
+#i2:hover{
+	-webkit-transform: rotate(7deg);
+	cursor: pointer;
 }
 #s2{
 	float: left;
@@ -179,4 +194,15 @@ footer{
 #khaos{
 	float: right;
 	width: 15%;
+}
+#khaos:hover{
+	transform: scale(1.2,1.2);
+	cursor: pointer;
+}
+#html:hover{
+	transform: scale(1.3,1.3);
+	cursor: pointer;
+}#css:hover{
+	transform: scale(1.3,1.3);
+	cursor: pointer;
 }
