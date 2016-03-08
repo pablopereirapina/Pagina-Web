@@ -1,2 +1,2 @@
-# Pagina-Web
-Entrega de la página web opción 4
+# Web
+Web page developed using HTML5 and CSS3 only. 
